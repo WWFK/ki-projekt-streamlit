@@ -1,17 +1,4 @@
-# Virtuelle Umgebungen
 env/
 venv/
-venv*/
-.venv/
-
-# Python-Cache
 __pycache__/
-*.py[cod]
-
-# Systemdateien
-.DS_Store
-Thumbs.db
-
-# Sonstiges
-*.log
-*.env
+*.pyc
